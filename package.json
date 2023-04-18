@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZHDeveloper/JD_Sign_Action.git"
+    "url": "git+https://github.com/chenhao0726/JD_Sign_Action.git"
   },
   "author": "ZhiHua",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZHDeveloper/JD_Sign_Action/issues"
+    "url": "https://github.com/chenhao0726/JD_Sign_Action/issues"
   },
-  "homepage": "https://github.com/ZHDeveloper/JD_Sign_Action#readme",
+  "homepage": "https://github.com/chenhao0726/JD_Sign_Action#readme",
   "dependencies": {
     "download": "^8.0.0",
     "request": "^2.88.2",
